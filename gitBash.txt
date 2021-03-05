@@ -5,3 +5,5 @@ git clone https://github.com/Kartik-Satish-Mishra/test.git
 cd test
 git add gitBash.txt
 git commit -m "gitBash.txt"
+
+in visual studio code just pull, change, and whatever.
