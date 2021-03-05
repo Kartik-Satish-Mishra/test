@@ -3,4 +3,5 @@ git config --global user.name "Kartik-Satish-Mishra"
 git config --global user.email "mishrakartik9525@gmail.com"
 git clone https://github.com/Kartik-Satish-Mishra/test.git
 cd test
-git add xyz.txt
+git add gitBash.txt
+git commit -m "gitBash.txt"
