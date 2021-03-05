@@ -6,4 +6,4 @@ cd test
 git add gitBash.txt
 git commit -m "gitBash.txt"
 
-in visual studio code just pull, change, and whatever.
+in visual studio code just pull, change, stage, commit, push.
