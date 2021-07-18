@@ -1,1 +1,1 @@
-print()
+print("mai desi")
